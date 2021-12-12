@@ -1,5 +1,5 @@
 
-
+//this program controls the led intensity after recievng data form lux sensor thorugh ble
 #include <Wire.h>
 #include <BH1750.h>
 BH1750 lightMeter(0x23);
