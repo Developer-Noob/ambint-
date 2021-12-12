@@ -1,3 +1,5 @@
+//this program measures lux value and sent it to main esp32 to process
+
 //pwm conrol led
 const int ledPin = 16; 
 
